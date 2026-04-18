@@ -15,7 +15,3 @@ C#
 
 1.  安装最新版本2.0.0
 2.  添加using xbd.DataConvertLib
-
-#### 如有疑问
-
-添加微信：fuswj001，备注来自Gitee
